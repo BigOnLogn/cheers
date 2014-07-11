@@ -1,0 +1,22 @@
+{
+  "name": "cheers",
+  "version": "0.0.1",
+  "authors": [
+    "Nick Moore"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.10.0",
+    "es5-shim": "~2.3.0",
+    "jquery": "~2.0.3",
+    "bootstrap": "~3.1.1"
+  }
+}
